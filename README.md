@@ -28,6 +28,7 @@
   <a href="https://dart.dev/">![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)</a>     
   <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)</a>
   <a href="https://github.com/">![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)</a>
+  <a href="https://github.com/">![GoLang](https://simpleicons.org/icons/go.svg)</a>
 
 ## 💻 OS
   <a href="https://ubuntu.com/">![UBUNTO](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)</a>
