@@ -10,7 +10,7 @@
 ## 📊 My stats
 
 <div align="center">
-  <a href="https://github.com/Jonathan-inja">
+  <a href="https://github.com/gh-082">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gh-082&count_private=true&show_icons=true&custom_title=Github%20Status&theme=algolia&layout=compact&border_radius=8"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-082&theme=algolia&layout=compact&custom_title=Most%20Used&border_radius=8)](https://github.com/gh-082)"/>
